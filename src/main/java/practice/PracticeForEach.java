@@ -5,7 +5,6 @@ public class PracticeForEach {
 
 	public static void main(String[] args) {
 		String name [] = {
-				
 				"田原",
 				"福男",
 				"倉成",
