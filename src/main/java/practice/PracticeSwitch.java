@@ -5,7 +5,7 @@ public class PracticeSwitch {
 	public static void main(String[] args) {
 		int[] job = {1,2,3,4,5,1,2,3,4,5};
 		
-		for(int i = 0; i < job.length; i++) {
+		for (int i = 0; i < job.length; i++) {
 			switch (job[i]) {
 			case 1:
 				System.out.println("勇者");

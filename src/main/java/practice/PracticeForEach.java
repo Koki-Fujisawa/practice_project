@@ -5,6 +5,7 @@ public class PracticeForEach {
 
 	public static void main(String[] args) {
 		String name [] = {
+				
 				"田原",
 				"福男",
 				"倉成",
@@ -16,7 +17,7 @@ public class PracticeForEach {
 				"笠原",
 				"亀井"
 		};
-		for(String str :name) {
+		for (String str : name) {
 			System.out.println(str);
 		}
 
